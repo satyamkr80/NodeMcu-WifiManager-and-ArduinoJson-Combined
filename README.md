@@ -1,5 +1,5 @@
 # NodeMcu-WifiManager-and-ArduinoJson-Combined
-ArduinoJson Code combined with WiFiManager Library of arduino for NodeMcu. So you don't need to update ssid and password every time in Arduino code. To access WiFi config menu type 192.168.4.1 in your Browser
+ArduinoJson Code combined with WiFiManager Library of arduino for NodeMcu. So you don't need to update ssid and password every time in Arduino code. 
 
 Required Library before running this code :
 
